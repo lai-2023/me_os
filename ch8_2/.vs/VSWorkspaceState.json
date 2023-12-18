@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\boot",
+    "\\boot\\include",
+    "\\device",
+    "\\kernel",
+    "\\lib",
+    "\\lib\\kernel"
+  ],
+  "SelectedNode": "\\device",
+  "PreviewInSolutionExplorer": false
+}
